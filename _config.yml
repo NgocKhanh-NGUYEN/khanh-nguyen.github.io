@@ -13,7 +13,7 @@ title                    : "Ngoc-Khanh NGUYEN / Postdoctoral Researcher"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[khanh-nguyen].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://khanh-nguyen.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,22 +23,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Khanh NGUYEN"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc Researcher at Cimi Paris, specializing in antibody discovery and molecular biology"
+  location         : "Paris, France"
+  employer         : "INSERM U1135"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ngoc-khanh.nguyen@inserm.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=iDTxg0gAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8568-5875"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ngoc-Khanh-Nguyen-3?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
